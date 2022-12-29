@@ -1,4 +1,4 @@
-### I have been developing applications for the past decade using a variety of platforms and frameworks. I have worked with clients across Africa, designing, developing and maintaining their business applications which involved Client and Server-side development, including data handling. As a full stack developer, my experience is not focused only on a single area of development, but the complete process, from consultation and design to deployment and support.
+### Hi...
 
 <!--
 **carllabuschagne/carllabuschagne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
