@@ -132,7 +132,7 @@ Carl is also the founder of Custom Data, a web platform for capturing and managi
 
 <p align="center">
   <a href="https://github.com/carllabuschagne">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carllabuschagne&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carllabuschagne&theme=radical&border=7F3FBF&background=0D1117" alt="Carl's GitHub streak"/>
   </a>
 </p>
 
