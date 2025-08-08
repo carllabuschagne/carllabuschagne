@@ -87,7 +87,7 @@ Carl is also the founder of Custom Data, a web platform for capturing and managi
 
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: carllabuschagne.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: carl@carllabuschagne.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/carllabuschagne/carllabuschagne/issues)
 
 </p>
