@@ -132,7 +132,7 @@ Carl is also the founder of Custom Data, a web platform for capturing and managi
 
 <p align="center">
   <a href="https://github.com/carllabuschagne">
-    <img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carllabuschagne&theme=radical](https://pixel-profile.vercel.app/api/github-stats?username=carllabuschagne)" alt="Carl Labuschagne's GitHub Contribution"/>
+    <img src="https://pixel-profile.vercel.app/api/github-stats?username=carllabuschagne" alt="Carl Labuschagne's GitHub Contribution"/>
     <!--Replace <username> with your own GitHub username.-->
 
   </a>
