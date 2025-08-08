@@ -14,6 +14,9 @@
 
  -->
 
+ ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/carllabuschagne/:repo/:branch)
+
+
 <a href="https://komarev.com/ghpvc/?username=carllabuschagne">
   <img align="right" src="https://komarev.com/ghpvc/?username=carllabuschagne&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
