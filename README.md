@@ -61,8 +61,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=4078C0&center=true&vCenter=true&random=false&width=450&lines=Welcome+to+my+GitHub+profile+%F0%9F%98%87;Happy+to+see+you+here+%F0%9F%98%80;Specializing+in+Full+Stack+Development+%F0%9F%92%BB;Building+Creative+and+Responsive+Web+Apps+%F0%9F%8C%90;Let's+Collaborate+on+Amazing+Projects+%F0%9F%A4%9D;Feel+Free+to+Reach+Out+%F0%9F%A4%97;Have+a+Great+Day+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </p>
 
-Hello, I am **Mehedi Hasan**, a junior **full stack software engineer** based in Dhaka, Bangladesh. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions, and I excel in dynamic, collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.
-
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
 
 
@@ -76,31 +74,6 @@ Hello, I am **Mehedi Hasan**, a junior **full stack software engineer** based in
 
 
 ## 
-
-💼 Currently working at [**ET Tech Limited**](https://github.com/ettechlimited)
-
-
-🧠 Currently learning [**RDBMS**](https://www.google.com/search?q=rdbms&ie=UTF-8)
-
-<!-- [**NextJs**](https://nextjs.org), [**Redux**](https://redux.js.org/) -->
-
-🔭 Currently exploring [**prisma**](https://prisma.io).
-
-🌐 Portfolio: [**mehedi.engineer**](https://mehedi.engineer)
-
-<!-- 🧐 Currently looking to collaborate on open source projects. -->
-
-<!-- 🤔 Currently trying to improve my portfolio. -->
-
-<!-- ✍️ Enjoy writing blogs on [**Dev.to**](https://dev.to/mahdi-al-mutaallim) -->
-
-📫 Mail me: [**iammehedihasan@protonmail.com**](mailto:iammehedihasan@protonmail.com)
-
- ❤️ Enjoy crafting things like **[vscode-theme](https://dub.sh/clearview)**, **[ohmyposh-theme](https://dub.sh/dualsimplicity)**
-
-<!--⚡ Fun fact: My code **DOESN’T** work, I have no idea why. My code **WORKS**, I have no idea why. -->
-
-<!-- 🌐 Website: [mahdi-al-mutaallim.com](https://mahdi-al-mutaallim.me) -->
 
 
 ## 💪 Skills
