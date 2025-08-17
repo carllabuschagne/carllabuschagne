@@ -62,7 +62,7 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&&labelColor=black)](https://www.linkedin.com/in/carllabuschagne/) [![x](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&labelColor=black)](https://x.com/carllabuschagne) [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black)](https://t.me/carllabuschagne) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black)](mailto:iammehedihasan@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&&labelColor=black)](https://www.linkedin.com/in/carllabuschagne/) [![x](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&labelColor=black)](https://x.com/carllabuschagne) [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black)](https://t.me/carllabuschagne) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black)](mailto:carl@carllabuschagne.com)
 
 </div>
 
