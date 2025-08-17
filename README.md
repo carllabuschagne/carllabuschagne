@@ -1,7 +1,4 @@
-
-
-
-<!--Github stats Table--> 
+<!--Github stats Table-->
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
@@ -52,7 +49,7 @@
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
+<!--Dynamic Quote card updates everyday at 12 PM-->
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
 <!-- ![profile_cover](./profile_cover.png) -->
@@ -65,28 +62,15 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
 
-
-
-
-
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&&labelColor=black)](https://www.linkedin.com/in/carllabuschagne/) [![x](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&labelColor=black)](https://x.com/carllabuschagne) [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black)](https://t.me/carllabuschagne) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black)](mailto:iammehedihasan@protonmail.com)
- 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&&labelColor=black)](https://www.linkedin.com/in/carllabuschagne/) [![x](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&labelColor=black)](https://x.com/carllabuschagne) [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black)](https://t.me/carllabuschagne) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black)](mailto:iammehedihasan@protonmail.com)
 
 </div>
 
-
-## 
-
+##
 
 ## 💪 Skills
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,express,nodejs,mongodb,markdown,vercel,firebase,git,github,vscode)
-
-
-
-
-
-
 
 ### 💬 Ask me about (💪)
 
@@ -127,7 +111,7 @@
  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"> 
  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> 
- <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"> 
+ <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
 
 </td>
 </tr>
@@ -152,18 +136,14 @@
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carllabuschagne&theme=github_dark) -->
 
-
 <!-- ![github-stats](https://stats.dooboo.io/api/github-stats?login=carllabuschagne) -->
-
 
   <img style="height: 270; width: 100%;" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=carllabuschagne&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true" >
 
 <!--  <img style="height: 200; width: 49%;" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carllabuschagne&layout=compact&langs_count=8&hide_border=true&theme=github_dark&hide_title=true" > -->
 
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
 
 ## 🔥 Streak
 
@@ -177,11 +157,10 @@
 </details> -->
 
 ##
+
 ![snake gif](https://github.com/carllabuschagne/carllabuschagne/blob/output/github-contribution-grid-snake-dark.svg)
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carllabuschagne&color=2563EB&style=for-the-badge&label=👁️👁️"> </p>
-
 
 <!-- <div align="center">
 
