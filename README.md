@@ -89,26 +89,3 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-## 🔥 Streak
-
-<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=carllabuschagne&theme=github-dark-blue&hide_border=true&stroke=0D1117" />
-
-<!-- <details>
-<summary> <h2>🔥 Streak</h2> </summary>
-
-<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=carllabuschagne&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=3B82F6&sideLabels=2563EB&currStreakNum=3B82F6&ring=3B82F6&currStreakLabel=2563EB&sideNums=3B82F6" />
-
-</details> -->
-
-##
-
-![snake gif](https://github.com/carllabuschagne/carllabuschagne/blob/output/github-contribution-grid-snake-dark.svg)
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=carllabuschagne&color=2563EB&style=for-the-badge&label=👁️👁️"> </p>
-
-<!-- <div align="center">
-
-![Visitor Count](https://profile-counter.glitch.me/carllabuschagne/count.svg)
-
-</div> -->
