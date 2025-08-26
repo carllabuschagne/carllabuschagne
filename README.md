@@ -77,15 +77,3 @@
 </tr>
 </table>
 
-## 🌐 Stats
-
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carllabuschagne&theme=github_dark) -->
-
-<!-- ![github-stats](https://stats.dooboo.io/api/github-stats?login=carllabuschagne) -->
-
-  <img style="height: 270; width: 100%;" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=carllabuschagne&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true" >
-
-<!--  <img style="height: 200; width: 49%;" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carllabuschagne&layout=compact&langs_count=8&hide_border=true&theme=github_dark&hide_title=true" > -->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
