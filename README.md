@@ -1,11 +1,8 @@
-<div align="center">
-  
+<div align="center">  
 <p align="center" width="500px">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=4078C0&center=true&vCenter=true&random=false&width=450&lines=Welcome+to+my+GitHub+profile+%F0%9F%98%87;Happy+to+see+you+here+%F0%9F%98%80;Specializing+in+Full+Stack+Development+%F0%9F%92%BB;Building+Creative+and+Responsive+Web+Apps+%F0%9F%8C%90;Let's+Collaborate+on+Amazing+Projects+%F0%9F%A4%9D;Feel+Free+to+Reach+Out+%F0%9F%A4%97;Have+a+Great+Day+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </p>
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
-
+  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&&labelColor=black)](https://www.linkedin.com/in/carllabuschagne/) [![x](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&labelColor=black)](https://x.com/carllabuschagne) [![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black)](https://t.me/carllabuschagne) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=black)](mailto:carl@carllabuschagne.com)
 
 </div>
@@ -56,7 +53,6 @@
  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT">
  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"> 
  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-
 </td>
 </tr>
 <tr>
@@ -70,9 +66,6 @@
     <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
     <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form">
     <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="vite">
-    
-    
   </td>
 </tr>
 </table>
-
