@@ -15,6 +15,12 @@
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,express,nodejs,mongodb,markdown,vercel,firebase,git,github,vscode)
 
+##
+
+## 💪 Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=carllabuschagne)](https://git.io/streak-stats)
+
 ### 💬 Ask me about (💪)
 
 <table border="0">
