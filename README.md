@@ -5,7 +5,6 @@
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&&labelColor=black)](https://www.linkedin.com/in/carllabuschagne/) 
 [![x](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&labelColor=black)](https://x.com/carllabuschagne) 
-[![Telegram](https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black)](https://t.me/carllabuschagne) 
 [![Email](https://img.shields.io/badge/Email-FF55FF?style=for-the-badge&logo=email&logoColor=white&labelColor=black)](mailto:carl@carllabuschagne.com)
 
 </div>
